@@ -1,7 +1,6 @@
 >[!NOTE]
 >
 >This project was originally created by [Tittu](https://github.com/prasanthrangan)
->
 >It has been deprecated upstream, but I have re-hosted it here because I still use it regularly.
 >
 >
