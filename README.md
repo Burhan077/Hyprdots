@@ -2,7 +2,7 @@
 >
 >This project was originally created by [Tittu](https://github.com/prasanthrangan)
 >
->It has been deprecated upstream, but I have re-hosted it here because I still use it regularly.
+>It has been deprecated upstream, but I have re-hosted it here because I still use it and patch stuff regularly.
 >
 >
 ###### *<div align="right"><sub>// design by t2</sub></div>*
