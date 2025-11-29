@@ -4,6 +4,7 @@
 >
 >It has been deprecated upstream, but I have re-hosted it here because I still use it and patch stuff regularly.
 >
+>Install by running the install.sh in the Scripts dir
 >
 ###### *<div align="right"><sub>// design by t2</sub></div>*
 <div align = center>
